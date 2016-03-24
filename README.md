@@ -1,3 +1,3 @@
 # docs-appcloud-console
 
-documentation for console.developer.swisscom.com
+Documentation for console.developer.swisscom.com
